@@ -1,0 +1,6 @@
+clips:edit
+viewing_activity_read
+chat:edit
+channel:read:subscriptions	channel:read:redemptions
+
+https://id.twitch.tv/oauth2/authorize?response_type=token&client_id=o5i9ilz3xjwhuk8ezxz96ghu1uibva&redirect_uri=http://localhost:8000/oauth/redirect&scope=viewing_activity_read channel:read:redemptions
